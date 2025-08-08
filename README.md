@@ -1,4 +1,4 @@
-# **📊 Bank Management System - README**
+# **📊 Bank Database Management System - README**
 
 ---
 
